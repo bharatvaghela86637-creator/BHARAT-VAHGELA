@@ -1,0 +1,6 @@
+{
+  "name": "FREE DOWNLOAD",
+  "description": "High-speed ad-free video downloader and offline media player for multi-platform links with quality options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
